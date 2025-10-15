@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NanceT93
+- 👋 Hi, there
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on new project and meet new people
